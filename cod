@@ -1,1 +1,36 @@
+<html>
 
+<head>
+
+<title>Моя работа</title>
+
+<style>
+body { background: url(pole.jpg);
+text align: center;
+}
+
+
+</style>
+
+</head>
+
+<body>
+
+<p text align="center"><font size="9"><b>Вірші Т.Г.Шевченка</b></font></p>
+
+<p text align="center"><img src="sheva.jpg" alt=шева> </p>
+
+<p> <h2>СОНЦЕ ГРІЄ, ВІТЕР ВІЄ</h2> </p>
+<p>Сонце гріє, вітер віє</p> 
+<p>З поля на долину,</p> 
+<p>Над водою гне з вербою</p> 
+<p>Червону калину,</p> 
+<p>На калині одиноке</p> 
+<p>Гніздечко гойдає.</p> 
+<p>А де ж дівся соловейко?</p>
+ <p>Не питай, не знає.
+</p>
+
+</body>
+
+</html>
